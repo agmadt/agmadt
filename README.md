@@ -3,6 +3,10 @@ I am Agam Adhityo -- a Full-stack web developer from Indonesia.
 
 💬 We can discuss anything as long as it's related to web development ;)
 
+💻 I love to learn anything new and like to challenge myself.
+
+✈️ Currently trying something with HTMX and Java Springboot.
+
 ## 📈 GitHub Stats
 <img src="https://github-readme-stats-agmadt.vercel.app/api/top-langs/?username=agmadt&layout=compact&card_width=275&theme=github_dark&hide=HTML,CSS" align="right" width="295">
 
