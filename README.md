@@ -19,6 +19,6 @@ I am Agam Adhityo -- a Full-stack web developer from Indonesia.
 ✈️ Currently trying something with HTMX and Java Springboot.
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats-agmadt.vercel.app/api/top-langs/?username=agmadt&layout=compact&card_width=275&theme=github_dark&hide=HTML,CSS" align="right" width="295">
+<img src="https://github-readme-stats-agmadt.vercel.app/api/top-langs/?username=agmadt&layout=compact&card_width=275&theme=github_dark&hide=HTML,CSS&size_weight=0.5&count_weight=0.5" align="right" width="295">
 
 ![Agmadt's GitHub stats](https://github-readme-stats-agmadt.vercel.app/api?username=agmadt&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
