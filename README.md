@@ -12,8 +12,6 @@ I enjoy building web applications, creating elegant APIs, and learning something
 
 💻 I love to learn anything new and like to challenge myself.
 
-✈️ Currently trying something with HTMX and Java Springboot.
-
 ## 📈 GitHub Stats
 <img src="https://github-readme-stats-agmadt.vercel.app/api/top-langs/?username=agmadt&layout=compact&card_width=275&theme=github_dark&hide=HTML,CSS&size_weight=0.5&count_weight=0.5" align="right" width="295">
 
